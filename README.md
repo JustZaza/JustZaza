@@ -15,9 +15,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Development graduate** with a **Diploma in Systems Development**, skilled in **Java, PHP, JavaScript and MySQL**. I have hands-on experience building database-driven web and console applications, implementing user authentication, and applying object-oriented programming, secure coding and data integrity practices.
+I'm a **Software Development graduate** skilled in **Java, PHP, JavaScript and MySQL**. I have hands-on experience building database-driven web and console applications, implementing user authentication, and applying object-oriented programming, secure coding and data integrity practices. 
 
-🎯 I'm currently **seeking an entry-level software developer role** where I can contribute to a collaborative team and grow into a **full stack engineer**.
+🎯 I'm currently **seeking an entry-level software developer role** where I can contribute to a collaborative team and grow into a **back-end software engineer**.
 
 - 🔭 Currently building **MediFlow**, a hospital & pharmacy management system
 - 🌱 Growing my full stack skills, from databases to the web front end
